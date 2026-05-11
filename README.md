@@ -1,2 +1,17 @@
-# ToDo1
-ToDo App desenvolvido em Python com Tkinter. O projeto permite adicionar, listar, concluir e remover tarefas, utilizando JSON para salvar os dados localmente. Projeto criado para praticar lógica de programação, interfaces gráficas e manipulação de arquivos.
+# ToDo App
+
+Aplicação de gerenciamento de tarefas feita em Python com Tkinter.
+
+## Funcionalidades
+
+- Adicionar tarefas
+- Listar tarefas
+- Concluir tarefas
+- Remover tarefas
+- Salvamento em JSON
+
+## Tecnologias
+
+- Python
+- Tkinter
+- JSON
